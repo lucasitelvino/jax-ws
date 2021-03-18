@@ -12,6 +12,6 @@ public class Cliente {
                 = exemploServiceImplService.getExemploServiceImplPort();
 
         System.out.println(exemploService.calcula(10));
-        System.out.println(exemploService.mostrarNome("Lucas"));
+        System.out.println(exemploService.mostrarNome("Lucas Itelvino da Silva"));
     }
 }
